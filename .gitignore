@@ -1,0 +1,71 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@gelijian
+Learn Git and GitHub without any code!
+
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+2.9k
+90.5k
+
+    45.8k
+
+github/gitignore
+Code
+Pull requests 108
+Actions
+Projects 0
+Security
+Insights
+gitignore/C++.gitignore
+pmartinez added prerequisites for C and C++ 2c52d02 on Jun 30, 2016
+@malleor
+@peterfpeterson
+@rhysd
+@jlokimlin
+@bnoordhuis
+@d2s
+@mrtazz
+@starrify
+33 lines (26 sloc) 270 Bytes
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Clion
+cmake-build-debug
+cmake-build-release
+.idea
